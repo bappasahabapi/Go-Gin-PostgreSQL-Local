@@ -1,3 +1,7 @@
+Output:
+
+![Items-Api](output.png)
+
 # Run the application
 
 - `go run main.go || air`
